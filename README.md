@@ -12,5 +12,5 @@ You can download "Do It" app on Google Play:
 
 # Credits
 To: ([iPaulPro](https://github.com/iPaulPro)) - [paulburke.co](http://paulburke.co/)<br />
-Tt's basically Paul Burke implementation with some changes.
+It's basically Paul Burke implementation with some changes.
 
