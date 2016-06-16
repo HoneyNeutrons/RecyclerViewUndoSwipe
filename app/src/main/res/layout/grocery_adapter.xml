@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/white"
+    android:id="@+id/root_layout"
+    android:clipToPadding="false">
+
+    <RelativeLayout
+        tools:targetApi="LOLLIPOP"
+        android:elevation="3dp"
+        android:id="@+id/container"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:layout_marginTop="0dp"
+        android:background="@color/white"
+        android:layout_marginLeft="0dp"
+        android:layout_marginRight="0dp">
+
+        <View
+           android:layout_alignParentBottom="true"
+            android:layout_marginLeft="22dp"
+            android:layout_marginRight="22dp"
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:background="@color/textlight30" />
+
+             <LinearLayout
+                android:id="@+id/linear"
+                android:layout_gravity="start|center_vertical"
+                android:layout_alignParentLeft="true"
+                 android:layout_alignParentStart="true"
+                android:layout_centerVertical="true"
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:background="@android:color/transparent"
+                    android:layout_gravity="start|center_vertical"
+
+                    android:fontFamily="sans-serif"
+                    android:id="@+id/tvItemName"
+                    android:layout_width="80dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginEnd="60dp"
+                    android:layout_marginRight="60dp"
+                    android:singleLine="true"
+                    android:textSize="15sp"
+                    android:textColor="@color/textlight" />
+             </LinearLayout>
+
+            <RelativeLayout
+                 android:layout_width="56dp"
+                 android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                 android:id="@+id/relativeReorder"
+                 android:layout_height="match_parent">
+
+                   <ImageView
+                      android:id="@+id/ivReorder"
+                      android:layout_width="wrap_content"
+                      android:layout_height="match_parent"
+                      android:layout_centerInParent="true"
+                      android:tint="@color/textlight"
+                       android:contentDescription="@null"
+                      android:src="@drawable/ic_dehaze_white_24dp"/>
+            </RelativeLayout>
+      </RelativeLayout>
+</RelativeLayout>

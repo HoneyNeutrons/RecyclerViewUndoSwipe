@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\nextlightfinalzarelease\RecylerViewUndoSwipe\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="D:\nextlightfinalzarelease\RecylerViewUndoSwipe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.0.0_cd0c2c3898e00a7ae739ff6a96ef8e6c5077f5ab\classes.dex" />
+    </item>
+    <item
+        jar="D:\nextlightfinalzarelease\RecylerViewUndoSwipe\app\build\intermediates\exploded-aar\com.android.support\design\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="D:\nextlightfinalzarelease\RecylerViewUndoSwipe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.0.0_b453f1624fd298cdf227cfe901702d8c04669261\classes.dex" />
+    </item>
+    <item
+        jar="D:\nextlightfinalzarelease\RecylerViewUndoSwipe\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="D:\nextlightfinalzarelease\RecylerViewUndoSwipe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_d27426960359939a51672a52eb238bf8a3866951\classes.dex" />
+    </item>
+    <item
+        jar="D:\nextlightfinalzarelease\RecylerViewUndoSwipe\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="D:\nextlightfinalzarelease\RecylerViewUndoSwipe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_45135b569c769df3ea1ad5ecf1767833aa7f43f4\classes.dex" />
+    </item>
+    <item
+        jar="D:\nextlightfinalzarelease\RecylerViewUndoSwipe\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="D:\nextlightfinalzarelease\RecylerViewUndoSwipe\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_a212787af5f29dd92ba319ba20ca760fb6687e20\classes.dex" />
+    </item>
+    <item
+        jar="D:\nextlightfinalzarelease\RecylerViewUndoSwipe\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="D:\nextlightfinalzarelease\RecylerViewUndoSwipe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_3da1c950c116af7d38a6288427ab8a3af16a7458\classes.dex" />
+    </item>
+    <item
+        jar="D:\nextlightfinalzarelease\RecylerViewUndoSwipe\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="D:\nextlightfinalzarelease\RecylerViewUndoSwipe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_37a721a6f3f4d02b0e381a1b8a5e83154e00bb45\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yeahhh\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="D:\nextlightfinalzarelease\RecylerViewUndoSwipe\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_3cea8366ad30a48cd1c580a079a013e1767643ca\classes.dex" />
+    </item>
+    <item
+        jar="D:\nextlightfinalzarelease\RecylerViewUndoSwipe\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="608cfcc23bbb5666b8893972b2e84a048288606d">
+        <dex dex="D:\nextlightfinalzarelease\RecylerViewUndoSwipe\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_bc791c1e913295afda6a522e644f360a4f7add42\classes.dex" />
+    </item>
+    <item
+        jar="D:\nextlightfinalzarelease\RecylerViewUndoSwipe\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3905bb9eb89bcbc63a2d13cdcac44db0bf4b7e71">
+        <dex dex="D:\nextlightfinalzarelease\RecylerViewUndoSwipe\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_34be7c2286d371923e1ba893a78beb32ef3379fe\classes.dex" />
+    </item>
+
+</items>

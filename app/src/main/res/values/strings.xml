@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RecyclerViewUdnoSwipe</string>
+    <string name="action_about">About</string>
+    <string name="item_deleted">Item deleted</string>
+    <string name="item_undo">Undo</string>
+    <string name="today">Today</string>
+    <string name="community">Our G+ community</string>
+    <string name="honey_neutrons">Honey neutrons</string>
+
+</resources>
+

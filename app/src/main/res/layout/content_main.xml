@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="rvdoit.honeyneutrons.com.recyclerviewdoit.MainActivity"
+    android:background="@drawable/gradient"
+    tools:showIn="@layout/activity_main"
+    android:id="@+id/root_layout"
+    tools:targetApi="LOLLIPOP">
+
+    <RelativeLayout
+        android:elevation="5dp"
+        android:id="@+id/relativeToolbar"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="?attr/colorPrimary" />
+
+    <RelativeLayout
+        android:elevation="5dp"
+        android:layout_marginRight="12dp"
+        android:layout_marginLeft="12dp"
+        android:layout_alignParentTop="true"
+        android:layout_width="match_parent"
+        android:background="@color/white"
+        android:layout_height="match_parent">
+
+    <RelativeLayout
+
+        android:elevation="6dp"
+        android:id="@+id/relativeToday"
+        android:layout_marginBottom="0dp"
+        android:layout_alignParentTop="true"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:background="?attr/colorSecondary">
+
+        <RelativeLayout
+            android:id="@+id/circleNumberOfItems"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginLeft="18dp"
+            android:layout_marginStart="18dp"
+            android:layout_centerVertical="true"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:background="@drawable/circle">
+            <TextView
+                android:id="@+id/tvNumber"
+                android:fontFamily="sans-serif"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:textStyle="normal"
+                android:textSize="12sp"
+                android:textColor="@color/white"
+                android:text=""/>
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_centerInParent="true"
+            android:layout_centerVertical="true"
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/tvDay"
+                android:fontFamily="sans-serif"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:layout_gravity="center"
+                android:textColor="@color/white"
+                android:textSize="14sp"
+                android:textAllCaps="true"
+                android:text="@string/today"/>
+            <TextView
+                android:id="@+id/tvDate"
+                android:fontFamily="sans-serif"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:layout_gravity="center"
+                android:textColor="@color/white"
+                android:textSize="12sp"/>
+        </LinearLayout>
+
+
+    </RelativeLayout>
+
+        <android.support.v7.widget.RecyclerView
+            android:elevation="3dp"
+            android:layout_below="@+id/relativeToday"
+            android:id="@+id/cardList"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_horizontal|top" />
+    </RelativeLayout>
+
+
+</RelativeLayout>
