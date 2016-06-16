@@ -1,4 +1,4 @@
-# RecylerViewUndoSwipe
+# RecyclerViewUndoSwipe
 Native ItemTouch helper swipe and drag support for RecyclerView with undo action just like in "Do It" app.
 
 ![Alt text](http://imgur.com/R91UJql.gif "Optional title")
